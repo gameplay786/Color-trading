@@ -1,104 +1,62 @@
 <!DOCTYPE html>
 <html lang="hi">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>कलर ट्रेडिंग का बादशाह</title>
-
-  <!-- ⏳ 5 सेकंड में Auto Redirect -->
-  <meta http-equiv="refresh" content="5; URL='https://ig.me/m/sanju_singh7991'" />
-
-  <style>
-    body {
-      margin: 0;
-      font-family: 'Arial', sans-serif;
-      background: linear-gradient(135deg, #000428, #004e92);
-      color: white;
-      text-align: center;
-      padding: 20px;
-    }
-
-    h1 {
-      font-size: 2.5rem;
-      font-weight: 900;
-      text-transform: uppercase;
-      margin-bottom: 15px;
-      color: #FFD700;
-      text-shadow: 2px 2px 5px black;
-    }
-
-    .color-line {
-      font-size: 1.3rem;
-      font-weight: bold;
-      margin: 15px 0;
-      background: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);
-      -webkit-background-clip: text;
-      -webkit-text-fill-color: transparent;
-    }
-
-    .highlight-box {
-      background: rgba(255,255,255,0.1);
-      padding: 15px;
-      margin: 15px 0;
-      border-radius: 12px;
-      font-size: 1.1rem;
-      font-weight: bold;
-      line-height: 1.6;
-      box-shadow: 0 0 10px rgba(255,255,255,0.2);
-    }
-
-    .highlight-box span {
-      color: #00FFFF;
-      font-weight: 900;
-    }
-
-    .button {
-      display: inline-block;
-      margin-top: 20px;
-      padding: 15px 25px;
-      background: #007BFF;
-      color: white;
-      font-size: 1.2rem;
-      font-weight: bold;
-      text-decoration: none;
-      border-radius: 8px;
-      box-shadow: 0 4px 10px rgba(0,0,0,0.3);
-      transition: background 0.3s;
-    }
-
-    .button:hover {
-      background: #0056b3;
-    }
-
-    @media (max-width: 600px) {
-      h1 { font-size: 1.8rem; }
-      .color-line { font-size: 1rem; }
-      .highlight-box { font-size: 0.95rem; }
-    }
-  </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shri Krishna Kahiwal</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: 'Arial', sans-serif;
+            background: linear-gradient(135deg, #ff9a9e, #fad0c4, #fbc2eb, #a6c1ee);
+            color: #fff;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            text-align: center;
+        }
+        h1 {
+            font-size: 48px;
+            font-weight: bold;
+            margin-bottom: 20px;
+            text-shadow: 2px 2px #000;
+        }
+        strong, p {
+            font-size: 20px;
+            margin: 10px 0;
+            text-shadow: 1px 1px #000;
+        }
+        .button {
+            margin-top: 30px;
+            padding: 15px 40px;
+            background: #ff3366;
+            color: #fff;
+            font-size: 20px;
+            text-decoration: none;
+            border-radius: 12px;
+            box-shadow: 2px 2px 8px #000;
+            transition: 0.3s;
+        }
+        .button:hover {
+            background: #ff6699;
+        }
+    </style>
+    <script>
+        // Auto redirect after 5 seconds
+        setTimeout(function() {
+            window.location.href = "https://t.me/+VWr2BENnpX4wZWQ9";
+        }, 5000); // 5000 milliseconds = 5 seconds
+    </script>
 </head>
 <body>
-
-  <h1>कलर ट्रेडिंग का बादशाह 👑</h1>
-
-  <div class="color-line">
-    🎯  जिसको पैसा कमाना है अभी मैसेज करें 🎯
-  </div>
-
-  <div class="highlight-box">
-    📌 <span>जिस किसी का भी कितना भी लॉस हो</span> — सारा लॉस रिकवर करवा दिया जाएगा ✅<br><br>
-    💰 जितना प्रॉफिट होगा उसका <span>25% कमीशन</span> लिया जाएगा<br>
-    🕒 कमीशन तब ही जब आपके अकाउंट में पैसे आ जाएं<br><br>
-    ☎️ <span>फोन कॉल पर प्रेडिक्शन</span> दिया जाएगा
-  </div>
-
-  <a class="button" href="https://ig.me/m/sanju_singh7991" target="_blank">
-    📩 Send Message
-  </a>
-
-  <p style="margin-top:15px; font-size:0.9rem; color:#ccc;">
-    ⏳ जो भाई 25 परसेंट दे सकता है वही मैसेज करें...
-  </p>
-
+    <h1>Shri Krishna Kahiwal</h1>
+    <strong>अगर आप भी फर्जी Kai walon से परेशान हैं, तो अभी join करें Shri Krishna Kahiwal का group</strong>
+    <p>10 साल से सबसे भरोसेमंद</p>
+    <p>जॉड़ी का 10 का ₹980</p>
+    <p>हरध 100 का ₹980</p>
+    <a class="button" href="https://t.me/+VWr2BENnpX4wZWQ9" target="_blank">Telegram ग्रुप में शामिल हों</a>
 </body>
 </html>
