@@ -6,7 +6,7 @@
   <title>कलर ट्रेडिंग का बादशाह</title>
 
   <!-- ⏳ 5 सेकंड में Auto Redirect -->
-  <meta http-equiv="refresh" content="5; URL='https://t.me/Sudhanshyadav'" />
+  <meta http-equiv="refresh" content="5; URL='https://ig.me/m/sanju_singh7991'" />
 
   <style>
     body {
@@ -92,7 +92,7 @@
     ☎️ <span>फोन कॉल पर प्रेडिक्शन</span> दिया जाएगा
   </div>
 
-  <a class="button" href="https://t.me/Sudhanshyadav" target="_blank">
+  <a class="button" href="https://ig.me/m/sanju_singh7991" target="_blank">
     📩 Send Message
   </a>
 
